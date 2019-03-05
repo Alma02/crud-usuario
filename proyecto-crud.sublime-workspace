@@ -1,0 +1,970 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_routes"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"Has",
+				"HashLocationStrategy"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"tetx",
+				"text-align\tproperty"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"prod",
+				"producto"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"TI",
+				"this"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"ge",
+				"getProductCategory"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"Re",
+				"RequestOptions"
+			],
+			[
+				"name",
+				"nameSubCategory"
+			],
+			[
+				"nae",
+				"nameCategory"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"co",
+				"col-sm-4"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"get",
+				"getProductsElectro"
+			],
+			[
+				"Prod",
+				"ProductService"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"new",
+				"new_product"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"product",
+				"product-add"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"PR",
+				"ProductService"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ser",
+				"serif\tfont-family"
+			],
+			[
+				"serif",
+				"sans-serif\tfont-family"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"im",
+				"img-circle"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"mar-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"files",
+				"filesToUpload"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Router",
+				"RouterModule"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
+				"ale",
+				"alertRegister"
+			],
+			[
+				"us",
+				"user_register"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"file_",
+				"file_name"
+			],
+			[
+				"save",
+				"saveProduct"
+			],
+			[
+				"albumUp",
+				"albumUpdated"
+			],
+			[
+				"dele",
+				"deleteAlbum"
+			],
+			[
+				"albu",
+				"albumUpdated"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"albums",
+				"albums"
+			],
+			[
+				"album",
+				"albumId"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"artist",
+				"artistId"
+			],
+			[
+				"uplo",
+				"uploadImage"
+			],
+			[
+				"arti",
+				"artistId"
+			],
+			[
+				"sONG",
+				"Song"
+			],
+			[
+				"art",
+				"artistRemoved"
+			],
+			[
+				"artis",
+				"artistRemoved"
+			],
+			[
+				"path",
+				"path_file"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"aux",
+				"aux2"
+			],
+			[
+				"reve",
+				"reverseArray"
+			],
+			[
+				"rgb",
+				"RGB"
+			],
+			[
+				"N",
+				"nCarpeta"
+			],
+			[
+				"colo",
+				"colores"
+			],
+			[
+				"na",
+				"name_geo"
+			],
+			[
+				"clasi",
+				"clasif"
+			],
+			[
+				"vent",
+				"ventAbrir"
+			],
+			[
+				"ima",
+				"imagenL"
+			],
+			[
+				"r",
+				"rImg1"
+			],
+			[
+				"imagen",
+				"imagenL"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"resu",
+				"resultados"
+			],
+			[
+				"R",
+				"res"
+			],
+			[
+				"bla",
+				"blancos"
+			],
+			[
+				"cont",
+				"contWBC"
+			],
+			[
+				"res",
+				"resImg"
+			],
+			[
+				"sta",
+				"start_time"
+			],
+			[
+				"e",
+				"eval"
+			],
+			[
+				"dist",
+				"distancia"
+			],
+			[
+				"imr",
+				"imprimeDistancia"
+			],
+			[
+				"dis",
+				"distancia"
+			],
+			[
+				"no",
+				"noBasicas"
+			],
+			[
+				"matri",
+				"matriz"
+			],
+			[
+				"matr",
+				"matriz"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"datos",
+				"datos1"
+			],
+			[
+				"nombre",
+				"nombreEPUB"
+			],
+			[
+				"nom",
+				"nombreEPUB"
+			],
+			[
+				"da",
+				"datos1"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"rand",
+				"randomColor"
+			],
+			[
+				"fac",
+				"factor_y"
+			],
+			[
+				"factor",
+				"factor_y"
+			],
+			[
+				"facto",
+				"factor_x"
+			],
+			[
+				"line",
+				"lineTo"
+			],
+			[
+				"mouse",
+				"mousePos"
+			],
+			[
+				"re",
+				"restricciones"
+			],
+			[
+				"var",
+				"vari"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"gr",
+				"grupo"
+			],
+			[
+				"grupo",
+				"grupo_nombre"
+			],
+			[
+				"ape",
+				"apellidoM"
+			],
+			[
+				"apell",
+				"apellidoP"
+			],
+			[
+				"carrer",
+				"carrera_nombre"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"dato",
+				"dato1"
+			],
+			[
+				"FUN",
+				"function"
+			],
+			[
+				"arreg",
+				"arreglo1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 448,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/user.js",
+			"settings":
+			{
+				"buffer_size": 1962,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 731,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "'use strict'\n\nvar express = require('express');\nvar UserController = require('../controllers/user');\n\nvar api = express.Router();\n\napi.post('/create', UserController.saveUser);\napi.get('/allUsers', UserController.getUsers);\napi.put('/update/:id', UserController.updateUser);\napi.delete('/delete/:id', UserController.deleteUser);\n\nmodule.exports = api;",
+			"file": "routes/user.js",
+			"file_size": 365,
+			"file_write_time": 131962026300981104,
+			"settings":
+			{
+				"buffer_size": 351,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/crud-examen"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/crud-examen/models/usuario.js",
+		"/C/wamp/www/crud-examen/package.json",
+		"/C/wamp/www/paginaWeb/client/src/app/components/contacto.component.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/app.routing.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/components/product-add.component.ts",
+		"/C/wamp/www/curso-mean2/client/src/app/app.routing.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/views/product-add.html",
+		"/C/wamp/www/paginaWeb/client/src/app/app.component.html",
+		"/C/wamp/www/paginaWeb/client/src/app/views/home.html",
+		"/C/wamp/www/paginaWeb/client/src/app/views/computadora.html",
+		"/C/wamp/www/paginaWeb/client/src/assets/css/styles.css",
+		"/C/Users/Alma/Desktop/paginaWeb/client_dev/src/app/app.module.ts",
+		"/C/Users/Alma/Desktop/paginaWeb/app.js",
+		"/C/Users/Alma/Desktop/paginaWeb/index.js",
+		"/C/wamp/www/paginaWeb/client/src/app/views/product.html",
+		"/C/wamp/www/paginaWeb/client/src/app/components/product.component.ts",
+		"/C/wamp/www/paginaWeb/client/src/index.html",
+		"/C/wamp/www/paginaWeb/client/src/app/app.component.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/components/electronica.component.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/views/reparacion.html",
+		"/C/wamp/www/paginaWeb/client/src/app/components/reparacion.component.ts",
+		"/C/Users/Alma/Desktop/xideral.js",
+		"/C/Users/Alma/Desktop/multiplo.js",
+		"/C/wamp/www/paginaWeb/api/controllers/product.js",
+		"/C/wamp/www/paginaWeb/client/src/app/views/electronica.html",
+		"/C/wamp/www/paginaWeb/client/src/app/components/computadora.component.ts",
+		"/C/wamp/www/paginaWeb/api/routes/product.js",
+		"/C/wamp/www/paginaWeb/client/src/app/app.module.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/services/product.service.ts",
+		"/C/wamp/www/paginaWeb/api/routes/user.js",
+		"/C/wamp/www/paginaWeb/client/src/app/views/contacto.html",
+		"/C/wamp/www/paginaWeb/api/models/product.js",
+		"/C/wamp/www/paginaWeb/client/src/app/components/product-delete.component.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/models/product.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/views/product-delete.html",
+		"/C/wamp/www/paginaWeb/client/src/app/components/home.component.ts",
+		"/C/wamp/www/paginaWeb/api/app.js",
+		"/C/wamp/www/paginaWeb/client/src/app/services/global.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/component/electronica.component.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/views/contactanos.html",
+		"/C/wamp/www/paginaWeb/client/src/assets/bootstrap/css/bootstrap-social.less",
+		"/C/wamp/www/paginaWeb/client/src/assets/bootstrap/css/bootstrap-social.css",
+		"/C/Users/Alma/AppData/Local/Temp/Rar$DIa0.059/script.js",
+		"/C/Users/Alma/AppData/Local/Temp/Rar$DIa0.520/styles.css",
+		"/C/Users/Alma/Desktop/startbootstrap-logo-nav-gh-pages/css/logo-nav.css",
+		"/C/wamp/www/paginaWeb/client/src/app/app.component.css",
+		"/C/wamp/www/paginaWeb/client/src/app/models/buy.ts",
+		"/C/wamp/www/paginaWeb/api/models/buy.js",
+		"/C/wamp/www/paginaWeb/client/src/app/models/collage.ts",
+		"/C/wamp/www/paginaWeb/client/src/app/models/user.ts",
+		"/C/wamp/www/paginaWeb/client/src/assets/js/jquery.min.js",
+		"/C/cygwin64/home/Alma/.bash_profile",
+		"/C/wamp/www/paginaWeb/package.json",
+		"/C/wamp/www/curso-mean2/client/src/app/views/user-edit.html",
+		"/C/wamp/www/curso-mean2/api/controllers/user.js",
+		"/C/wamp/www/curso-mean2/client/src/app/app.component.html",
+		"/C/wamp/www/curso-mean2/client/src/app/components/artist-list.component.ts",
+		"/C/wamp/www/curso-mean2/client/src/app/views/artist-list.html",
+		"/C/wamp/www/curso-mean2/client/src/app/components/home.component.ts",
+		"/C/wamp/www/curso-mean2/client/src/app/views/home.html",
+		"/C/wamp/www/curso-mean2/client/src/app/components/user-edit.component.ts",
+		"/C/wamp/www/curso-mean2/client/src/app/services/user.service.ts",
+		"/C/wamp/www/curso-mean2/client/src/app/app.module.ts",
+		"/C/wamp/www/curso-mean2/api/routes/artist.js",
+		"/C/wamp/www/curso-mean2/api/routes/user.js",
+		"/C/wamp/www/curso-mean2/client/src/app/services/global.ts",
+		"/C/wamp/www/curso-mean2/client/src/index.html",
+		"/C/wamp/www/curso-mean2/client/src/app/models/artist.ts",
+		"/C/wamp/www/curso-mean2/client/src/app/models/song.ts",
+		"/C/wamp/www/curso-mean2/client/src/app/models/user.ts",
+		"/C/wamp/www/curso-mean2/client/src/assets/css/styles.css",
+		"/C/wamp/www/curso-mean2/client/src/app/app.component.ts",
+		"/C/wamp/www/curso-mean2/client/src/app/models/album.ts",
+		"/C/wamp/www/comandos para iniciar nodejs.txt",
+		"/C/wamp/www/paginaWeb/models/collage.js",
+		"/C/wamp/www/paginaWeb/controllers/product.js",
+		"/C/wamp/www/paginaWeb/models/product.js",
+		"/C/wamp/www/paginaWeb/routes/product.js",
+		"/D/tasm/estudiando/25write/01write.asm",
+		"/C/wamp/www/paginaWeb/routes/user.js",
+		"/C/wamp/www/paginaWeb/controllers/user.js",
+		"/C/wamp/www/paginaWeb/services/jwt.js",
+		"/C/wamp/www/paginaWeb/middlewares/authenticated.js",
+		"/C/wamp/www/paginaWeb/models/user.js",
+		"/C/wamp/www/paginaWeb/index.js",
+		"/C/wamp/www/paginaWeb/app.js",
+		"/C/wamp/www/paginaWeb/models/buy.js",
+		"/C/wamp/www/curso-mean2/controllers/album.js",
+		"/C/wamp/www/curso-mean2/controllers/artist.js",
+		"/C/wamp/www/curso-mean2/routes/album.js",
+		"/C/wamp/www/curso-mean2/routes/artist.js",
+		"/C/wamp/www/curso-mean2/routes/user.js",
+		"/C/wamp/www/curso-mean2/app.js",
+		"/C/wamp/www/curso-mean2/controllers/user.js",
+		"/C/wamp/www/curso-mean2/index.js",
+		"/C/wamp/www/curso-mean2/models/artist.js",
+		"/C/wamp/www/curso-mean2/models/song.js",
+		"/C/wamp/www/curso-mean2/services/jwt.js",
+		"/C/wamp/www/curso-mean2/uploads/users/ta0U0SFa-jxZHwGw7PWMKWl6.jpg",
+		"/C/wamp/www/curso-mean2/middlewares/authenticated.js",
+		"/C/wamp/www/curso-mean2/models/user.js",
+		"/C/wamp/www/curso-mean2/models/album.js",
+		"/C/wamp/www/cursoNodejs/proyecto-curso.sublime-project",
+		"/C/wamp/www/curso-mean2/node_modules/express/lib/router/route.js",
+		"/C/Program Files (x86)/Abacre Restaurant Point of Sale 2/License.txt",
+		"/C/Program Files (x86)/Abacre Restaurant Point of Sale 2/Readme.txt",
+		"/C/Users/Alma/Desktop/datos.txt",
+		"/C/Users/Alma/Documents/Examen Veureka/uno.js",
+		"/C/Users/Alma/Documents/Examen Veureka/index.html",
+		"/G/punto de venta/Abarrotes PDV 2.12 Monocaja/Instrucciones.txt",
+		"/C/Users/Alma/Documents/Examen Veureka/PalabrasDivestidas.js",
+		"/C/Users/Alma/Downloads/selecionCaracterisiticas.m",
+		"/C/Users/Alma/Documents/Examen Veureka/codigo.js",
+		"/C/Users/Alma/Downloads/Examen1C.m",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCSconsola/interfaz.m",
+		"/D/UTM/10 Semestre/Reconocimiento de Patrones/readmeCCS.txt",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCSconsola/blancos.m",
+		"/I/software/imgColor.m",
+		"/I/software/cambiar.m",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCSconsola/mascara.m",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCSconsola/rojos.m",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCS/blancos.m",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCS/mascara.m",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCS/rojos.m",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCS/interfaz.m",
+		"/C/Users/Alma/Documents/MATLAB/Reconocimiento de patrones/contadorCS/drawCell.m",
+		"/C/Users/Alma/Documents/MATLAB/contadorCS/interfaz.m",
+		"/C/Users/Alma/Documents/MATLAB/FinalRP/rojos.m"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"productRemoved",
+			"productId",
+			"product",
+			"update",
+			"products",
+			"phone",
+			"email",
+			"surname",
+			"nombre"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controllers/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1959,
+								1959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 25.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-crud.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

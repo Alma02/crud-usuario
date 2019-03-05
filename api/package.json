@@ -1,0 +1,21 @@
+{
+  "name": "crud-examen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alma Rosa Ramirez Vega",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jwt-simple": "^0.5.5",
+    "mongoose": "^5.4.17"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
