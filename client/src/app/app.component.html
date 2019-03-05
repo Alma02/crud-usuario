@@ -1,0 +1,48 @@
+<h1>
+  {{title}}
+</h1>
+<div class="container">
+	<div class="col-lg-4">
+		<form #createForm="ngForm" (ngSubmit)="AddUser()">
+		<p>
+			<label>Nombre</label>
+			<input type="text" #name="ngModel" name="name" [(ngModel)]="user.name" class="form-control" required />	
+		</p>		
+		<p>
+			<label>Dirección</label>
+			<input type="text" #name="ngModel" name="address" [(ngModel)]="user.address" class="form-control" required />	
+		</p>
+		<p>
+			<label>Teléfono</label>
+			<input type="number" #name="ngModel" name="telephono" [(ngModel)]="user.telephone" class="form-control" required />
+		</p>
+		<input type="submit" value="Guardar" class="btn btn-primary" (click)="guardar()">
+		<!--a class="btn btn-success">Cancelar</a-->
+		</form>
+	</div>
+	<div class="col-lg-8">
+		<table class="table">
+			<thead>
+				<tr>
+				  <th scope="col">Nombre</th>
+				  <th scope="col">Dirección</th>
+				  <th scope="col">Teléfono</th>
+				  <th scope="col">Acción</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr *ngFor="let user of users">
+				  <td>{{user.name}}</td>
+				  <td>{{user.address}}</td>
+				  <td>{{user.telephone}}</td>
+				  <td>
+				  	<button type="button" class="btn btn-success" (click)="updateUser(user._id)">Editar
+				  		</button>
+				  	<input type="submit" value="Eliminar" class="btn btn-danger" (click)="deleteUser(user._id)">
+				  </td>
+				</tr>
+			</tbody>
+		</table>
+	</div>	
+</div>
+<router-outlet></router-outlet>
